@@ -74,7 +74,4 @@ I'm always open to new ideas, collaborations, or just a friendly chat. Feel free
   <a href="https://www.linkedin.com/in/mintesinot-sintayehu-1995662a4">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/@MiniB121">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
 </p>
